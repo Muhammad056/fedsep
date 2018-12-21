@@ -12,7 +12,7 @@ class App extends Component {
       <Provider>
         <div className="App">
           <div className="container">
-            <Header header="Manager Contact" />
+            <Header header="Manager Contactss" />
             <Contacts />
           </div>
         </div>
